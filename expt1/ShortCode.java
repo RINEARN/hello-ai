@@ -4,6 +4,6 @@
  */
 public class ShortCode {
     public static void main(String[] args) {
-        System.out.println("Hello! Can you see this code?");
+        System.out.println("Hello! Can you see this code? Modified a little.");
     }
 }
