@@ -4,7 +4,7 @@ Stores files for the experiment to explore ways to utilize web-browsing features
 
 * [Conversation with an AI on this experiment 1](https://chat.openai.com/share/61d53f48-c105-4942-81f2-691e77e90027)
 * [Conversation with an AI on this experiment 2](https://chat.openai.com/share/c7ac9eb2-cc81-4cbe-b320-ca30864d15e2)
-* [Conversation with an AI on this experiment 3](https://chat.openai.com/share/6a779874-d3f2-4bb1-8a11-20b288e48983)
+* [Conversation with an AI on this experiment 3](https://chat.openai.com/share/bfea99d4-8f97-444d-9e09-3e485e53ad8e)
 
 
 
@@ -12,7 +12,7 @@ ChatGPTのウェブブラウジング機能の使い道を、色々と実験し�
 
 * [AIとの会話内容 パート1](https://chat.openai.com/share/61d53f48-c105-4942-81f2-691e77e90027)
 * [AIとの会話内容 パート2](https://chat.openai.com/share/c7ac9eb2-cc81-4cbe-b320-ca30864d15e2)
-* [AIとの会話内容 パート3](https://chat.openai.com/share/6a779874-d3f2-4bb1-8a11-20b288e48983)
+* [AIとの会話内容 パート3](https://chat.openai.com/share/bfea99d4-8f97-444d-9e09-3e485e53ad8e)
 
 
 <hr />
